@@ -1,0 +1,2 @@
+# decay
+Hyprland Setup
