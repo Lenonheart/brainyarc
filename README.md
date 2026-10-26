@@ -1,2 +1,2 @@
-# decay
+# Brainyarc
 Hyprland Setup
